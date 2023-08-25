@@ -11,7 +11,7 @@ const Spinner = () => {
         secondaryColor="#F4D32E"
         radius="12.5"
         ariaLabel="mutating-dots-loading"
-        wrapperStyle={{}}
+        wrapperStyle={{width:"100%",display:"flex",justifyContent:"center"}}
         wrapperClass=""
         visible={true}
       />
